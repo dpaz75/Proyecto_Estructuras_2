@@ -1,0 +1,13 @@
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\bin\Debug\Proyecto_FAT16.exe.config
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\bin\Debug\Proyecto_FAT16.exe
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\bin\Debug\Proyecto_FAT16.pdb
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\obj\Debug\Proyecto_FAT16.csprojResolveAssemblyReference.cache
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\obj\Debug\Proyecto_FAT16.Properties.Resources.resources
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\obj\Debug\Proyecto_FAT16.csproj.GenerateResource.Cache
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\obj\Debug\Proyecto_FAT16.exe
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\obj\Debug\Proyecto_FAT16.pdb
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\obj\Debug\Proyecto_FAT16.FormPrincipal.resources
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\obj\Debug\Proyecto_FAT16.CrearImagen.resources
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\obj\Debug\Proyecto_FAT16.FileInfoForm.resources
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\obj\Debug\Proyecto_FAT16.FilesystemInformation.resources
+D:\Proyecto Estructuras\Proyecto_FAT16\Proyecto_FAT16\obj\Debug\Proyecto_FAT16.FormatearImagen.resources
